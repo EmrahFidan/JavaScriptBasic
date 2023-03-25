@@ -1,0 +1,10 @@
+{
+	"print": {
+		"scope": "javascript,typescript",
+		"prefix": "pp",
+		"body": [
+			"console.log();"
+		],
+		"description": ""
+	}
+}
