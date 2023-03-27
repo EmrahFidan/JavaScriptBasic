@@ -7,4 +7,13 @@
 		],
 		"description": ""
 	}
+	,
+	"$": {
+		"scope": "javascript,typescript",
+		"prefix": "ii",
+		"body": [
+			"`  `"
+		],
+		"description": ""
+	}
 }
