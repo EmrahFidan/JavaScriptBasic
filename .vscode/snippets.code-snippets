@@ -43,4 +43,13 @@
 		],
 		"description": ""
 	}
+	,
+	"document-querryAll": {
+		"scope": "javascript,typescript",
+		"prefix": "dqq",
+		"body": [
+			"document.querySelectorAll();"
+		],
+		"description": ""
+	}
 }
