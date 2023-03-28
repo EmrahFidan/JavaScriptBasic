@@ -16,4 +16,31 @@
 		],
 		"description": ""
 	}
+	,
+	"value": {
+		"scope": "javascript,typescript",
+		"prefix": "vv",
+		"body": [
+			"value = "
+		],
+		"description": ""
+	}
+	,
+	"style": {
+		"scope": "javascript,typescript",
+		"prefix": "ss",
+		"body": [
+			"style."
+		],
+		"description": ""
+	}
+	,
+	"document-querry": {
+		"scope": "javascript,typescript",
+		"prefix": "dq",
+		"body": [
+			"document.querySelector();"
+		],
+		"description": ""
+	}
 }
