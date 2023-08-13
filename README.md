@@ -1,6 +1,7 @@
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)![Javascript Version](https://img.shields.io/badge/node-v18.17.0-blue.svg)
-
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)![Javascript Version](https://img.shields.io/badge/node-v18.17.0-blue.svg)<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
 
 
 
