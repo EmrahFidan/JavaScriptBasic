@@ -16,7 +16,7 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img alt="Developed with Visual Studio Code" src="https://img.shields.io/badge/Developed%20with-Visual%20Studio%20Code-purple"/>
 </a>
-  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/JS_apps/blob/main/LICENSE">
+  <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/JavaScriptBasic/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkred"/>
   </a>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/" >
