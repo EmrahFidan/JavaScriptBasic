@@ -25,18 +25,37 @@
 </h3>
 <br>
 
+This project is my Javascript syntax learning project folder, with basic and intermediate project examples.
 
 
-This project is the project folder I use to learn javascript syntax, with basic and intermediate project examples.
+<h2 style="colour: #0081a7;"> Features </h2>
+
+Here are some of the main features of this project:
+
+- E86: The project includes features and components related to the E86 standard, ensuring compatibility and compliance with industry standards.
+
+- LC (Learning Code): The code base of this project is structured and documented with learning in mind. It serves as an excellent resource for individuals who want to understand web development best practices.
+
+- Udemy Course Reference: I developed this project while taking the [Komple Sıfırdan Web Geliştirme Kursu](https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/) on Udemy. You can refer to this course for more in-depth learning about web development, which greatly influenced the development of this project.
+
+- Responsive: The web application is designed to be responsive, ensuring that it works well on different screen sizes and devices. Users can enjoy a consistent and user-friendly experience regardless of how they access the application.
+
+- Clean Code: The project follows best practices for code organisation and cleanliness, making it easier to maintain and evolve.
+
+A detailed visual representation of the application's user interface can be found in the [Figma design file](https://www.figma.com/file/jl62wanA1RBOmlHB12RpAi/Intern?type=design&node-id=0%3A1&mode=design&t=uY4VtOwxKemZjn4M-1). This design gives an idea of how the application should look and feel.
 
 
-<h2 style="color: #fee440;"> Features </h1>
 
-- JavaScript
-- DOM
-- E86
-- LC -> Learnig Code 
-- Udemy Course I was injured: https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/
+
+
+
+<h2>Installation of the project</h2>
+
+<pre>
+<code>
+git clone https://github.com/EmrahFidan/JavaScriptBasic.git
+</code>
+</pre>
 
 
 <h2 style="color: #fee440;"> Lessons Learned </h1>
@@ -52,10 +71,5 @@ In general, I had problems with the installations.
 
 If you have any feedback, please contact me at: emrahfdn.work@gmail.com
 
-
-
-<h2 style="color: #fee440;"> Software developers </h1>
-
-- [@EmrahFidan](https://github.com/EmrahFidan)  for code.
 
   
